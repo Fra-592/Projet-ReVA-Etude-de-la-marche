@@ -1,6 +1,6 @@
-# Projet-ReVA-Etude-de-la-marche
+# Projet RéVA: Analyse 3D de la marche
 Repo/Rapport du binôme Dylan Dia - Benjamin Betti pour le projet de ReVA 4A portant sur l'étude de la marche.
-Le rapport complet se trouve sur le [wiki](https://github.com/Fra-592/Projet-ReVA-Etude-de-la-marche/wiki/Rapport) du repository.
+Le rapport complet se trouve sur le [wiki](https://github.com/Fra-592/Projet-ReVA-Etude-de-la-marche/wiki) du repository.
 
 ## Workflow
 Pour obtenir nos résultats, nous avons suivi les étapes suivantes sur les fichiers contenus dans le dossier `points`, au format .ply ASCII, avec les informations de couleurs évoquées précédemment:
